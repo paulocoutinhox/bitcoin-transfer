@@ -1,0 +1,3 @@
+pygemstones
+bip38
+git+https://github.com/paulocoutinhox/bit.git@local-ripemd160
