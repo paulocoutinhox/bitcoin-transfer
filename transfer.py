@@ -68,4 +68,4 @@ if float(my_balance) >= args.amount:
         except Exception as e:
             l.e(f"An error occurred during the transaction: {e}")
 else:
-    l.e("Insufficient balance for this transaction.", False)
+    l.e("Insufficient balance for this transaction.")
